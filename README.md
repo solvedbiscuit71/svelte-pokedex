@@ -19,7 +19,7 @@ After installing the dependencies, start the development server by
 npm run dev
 ```
 
-As, this will run the development server at port 3000
+For Live Preview: https://svelte-pokedex-eight.vercel.app/
 
 # Author
 
